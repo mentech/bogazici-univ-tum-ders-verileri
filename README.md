@@ -1,2 +1,2 @@
-# bo-azi-i-niv-b-t-n-dersleri
+# boğaziçi üniversitesi tüm dersler
 boğaziçi üniversitesinin tüm bölümlerinde açılmış ve açılacak olan bütün ders bilgilerini çeker
